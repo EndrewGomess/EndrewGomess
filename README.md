@@ -25,13 +25,15 @@ Estou no início da carreira e sigo uma rotina de estudos constante, combinando 
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)](https://www.python.org/)
-[![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)](https://pandas.pydata.org/)
-[![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg)](https://jupyter.org/)
-[![SQL Server](https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg)](https://www.microsoft.com/sql-server)
-[![Apache Spark](https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg)](https://spark.apache.org/)
-[![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)](https://git-scm.com/)
-[![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)](https://github.com/EndrewGomess)
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="48" height="48" /></a>
+  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="48" height="48" /></a>
+  <a href="https://jupyter.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter" width="48" height="48" /></a>
+  <a href="https://www.microsoft.com/sql-server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" width="48" height="48" /></a>
+  <a href="https://spark.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" alt="Apache Spark" title="Apache Spark" width="48" height="48" /></a>
+  <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="48" height="48" /></a>
+  <a href="https://github.com/EndrewGomess"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="48" height="48" /></a>
+</p>
 
 > 💡 Ajuste esta lista para refletir exatamente o que você usa (ex.: Databricks, Azure, Power BI, PostgreSQL).
 
@@ -39,12 +41,14 @@ Estou no início da carreira e sigo uma rotina de estudos constante, combinando 
 
 Estou sempre buscando evolução técnica. Estas são as credenciais que construí até aqui:
 
-[![Certificação 1](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/199235974)](https://credentials.databricks.com/)
-[![Certificação 2](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/194232070)](https://credentials.databricks.com/)
-[![Certificação 3](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196853073)](https://credentials.databricks.com/)
-[![Certificação 4](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/199238905)](https://credentials.databricks.com/)
-[![Certificação 5](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196595420)](https://credentials.databricks.com/)
-[![Certificação 6](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196596796)](https://credentials.databricks.com/)
+<p align="left">
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/199235974" alt="Certificação 1" title="Certificação 1" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/194232070" alt="Certificação 2" title="Certificação 2" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196853073" alt="Certificação 3" title="Certificação 3" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/199238905" alt="Certificação 4" title="Certificação 4" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196595420" alt="Certificação 5" title="Certificação 5" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196596796" alt="Certificação 6" title="Certificação 6" width="125" /></a>
+</p>
 
 ## 📂 Projetos
 
