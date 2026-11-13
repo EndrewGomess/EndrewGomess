@@ -35,7 +35,6 @@ Estou no início da carreira e sigo uma rotina de estudos constante, combinando 
   <a href="https://github.com/EndrewGomess"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="48" height="48" /></a>
 </p>
 
-> 💡 Ajuste esta lista para refletir exatamente o que você usa (ex.: Databricks, Azure, Power BI, PostgreSQL).
 
 ## 🖊️ Certificações e Formação
 
