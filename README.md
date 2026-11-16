@@ -47,6 +47,7 @@ Estou sempre buscando evolução técnica. Estas são as credenciais que constru
   <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/199238905" alt="Certificação 4" title="Certificação 4" width="125" /></a>
   <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196595420" alt="Certificação 5" title="Certificação 5" width="125" /></a>
   <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196596796" alt="Certificação 6" title="Certificação 6" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/200257954" alt="Databricks Certified Data Engineer Associate" title="Databricks Certified Data Engineer Associate" width="125" /></a>
 </p>
 
 ## 📂 Projetos
