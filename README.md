@@ -41,13 +41,16 @@ Estou no início da carreira e sigo uma rotina de estudos constante, combinando 
 Estou sempre buscando evolução técnica. Estas são as credenciais que construí até aqui:
 
 <p align="left">
-  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/199235974" alt="Certificação 1" title="Certificação 1" width="125" /></a>
-  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/194232070" alt="Certificação 2" title="Certificação 2" width="125" /></a>
-  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196853073" alt="Certificação 3" title="Certificação 3" width="125" /></a>
-  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/199238905" alt="Certificação 4" title="Certificação 4" width="125" /></a>
-  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196595420" alt="Certificação 5" title="Certificação 5" width="125" /></a>
-  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196596796" alt="Certificação 6" title="Certificação 6" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/199235974" alt="Databricks Partner Delivery Expert - Data Governance & Security" title="Databricks Partner Delivery Expert - Data Governance & Security" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/194232070" alt="Databricks Fundamentals" title="Databricks Fundamentals" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196853073" alt="Knowledge Badge - DevOps Essentials for Data Engineering" title="Knowledge Badge - DevOps Essentials for Data Engineering" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/199238905" alt="Databricks Partner Delivery Expert - Agent Evaluation" title="Databricks Partner Delivery Expert - Agent Evaluation" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196595420" alt="Knowledge Badge - Data Ingestion with Lakeflow Connect" title="Knowledge Badge - Data Ingestion with Lakeflow Connect" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196596796" alt="Knowledge Badge - Deploy Workloads with Lakeflow Jobs" title="Knowledge Badge - Deploy Workloads with Lakeflow Jobs" width="125" /></a>
   <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/200257954" alt="Databricks Certified Data Engineer Associate" title="Databricks Certified Data Engineer Associate" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197682163" alt="Knowledge Badge - Advanced Techniques with Spark Declarative Pipeline" title="Knowledge Badge - Advanced Techniques with Spark Declarative Pipeline" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/197682294" alt="Knowledge Badge - Databricks Data Privacy" title="Knowledge Badge - Databricks Data Privacy" width="125" /></a>
+  <a href="https://credentials.databricks.com/"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/196851605" alt="Knowledge Badge - Build Data Pipelines with Lakeflow Spark Declarative Pipelines" title="Knowledge Badge - Build Data Pipelines with Lakeflow Spark Declarative Pipelines" width="125" /></a>
 </p>
 
 ## 📂 Projetos
